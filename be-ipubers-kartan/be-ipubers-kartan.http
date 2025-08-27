@@ -1,0 +1,6 @@
+@be_ipubers_kartan_HostAddress = http://localhost:5050
+
+GET {{be_ipubers_kartan_HostAddress}}/healthcheck
+Accept: application/json
+
+###
