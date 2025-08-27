@@ -2,7 +2,7 @@ name: Deploy .NET Core 9 API to IIS Server
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   build:
